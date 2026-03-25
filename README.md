@@ -1,4 +1,4 @@
-# Hi, I'm Ramakrishna Chavali 👋
+# Hello, I'm Ramakrishna Chavali 👋
 
 Data Engineer specializing in Google Cloud Platform and modern data infrastructure. I build scalable data platforms, analytics applications, and automated pipelines that bridge the gap between data engineering and full-stack development.
 
